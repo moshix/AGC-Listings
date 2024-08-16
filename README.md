@@ -5,8 +5,6 @@ Listings for the AGC software Luminary099 (ie lunar lander) and Comanche055 (com
 We have the listings in classic 1403 font, and in retro-style font, for your own pleasure and study.   
 
 Use this manual to make sense of the software: https://www.nasa.gov/wp-content/uploads/static/history/alsj/a15/a15delco.pdf
-
-thanks  
-
+  
 Moshix  
 Dallas, August 2024  
